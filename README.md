@@ -1,12 +1,5 @@
 # 📊 Advertising Click Prediction Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-
----
-
 ## **📌 Overview**
 This project uses a **synthetic advertising dataset** to predict whether an internet user will **click on an advertisement** based on their demographic and behavioral features. The objective is to develop and evaluate a **machine learning model** for this classification problem.
 
@@ -55,7 +48,7 @@ The dataset includes the following features:
    - Feature relationships
    - Correlation analysis
 2. **Data Engineering**
-   - Initial transformations (later discarded due to overfitting)
+   - Initial transformations (later discarded due to overfitting but left in place for appreciation)
 3. **Model Development**
    - Train-test split
    - Logistic Regression model
@@ -73,6 +66,6 @@ The dataset includes the following features:
 ## **📦 Installation & Usage**
 To run this project locally:
 
-### 1️⃣ Clone the repository:
+### Clone the repository:
 ```bash
 git clone https://github.com/Sammy-mercy/Advertising_project.git
